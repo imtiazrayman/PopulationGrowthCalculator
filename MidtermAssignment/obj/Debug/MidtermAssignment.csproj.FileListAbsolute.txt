@@ -1,0 +1,9 @@
+C:\Users\Imtiaz Windows\source\repos\MidtermAssignment\bin\Debug\MidtermAssignment.exe.config
+C:\Users\Imtiaz Windows\source\repos\MidtermAssignment\bin\Debug\MidtermAssignment.exe
+C:\Users\Imtiaz Windows\source\repos\MidtermAssignment\bin\Debug\MidtermAssignment.pdb
+C:\Users\Imtiaz Windows\source\repos\MidtermAssignment\obj\Debug\MidtermAssignment.csprojAssemblyReference.cache
+C:\Users\Imtiaz Windows\source\repos\MidtermAssignment\obj\Debug\MidtermAssignment.Form1.resources
+C:\Users\Imtiaz Windows\source\repos\MidtermAssignment\obj\Debug\MidtermAssignment.Properties.Resources.resources
+C:\Users\Imtiaz Windows\source\repos\MidtermAssignment\obj\Debug\MidtermAssignment.csproj.GenerateResource.cache
+C:\Users\Imtiaz Windows\source\repos\MidtermAssignment\obj\Debug\MidtermAssignment.exe
+C:\Users\Imtiaz Windows\source\repos\MidtermAssignment\obj\Debug\MidtermAssignment.pdb
